@@ -16,7 +16,7 @@ public class AplicacionAlejandro {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("calcula el porcentaje de alumn@s que quieren que el Barça gane la Champions");
+        System.out.println("así que Alejandro tiene que modificar el programa para que muestre el nuevo porcentaje");
     }
     
 }
